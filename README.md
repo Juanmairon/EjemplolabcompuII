@@ -7,9 +7,10 @@ No lo vamos a usar más en la materia.
 ## Proyect Description
 Prueba de modificar README.
 
-[Aula Virtual de Moodle] (https://campusvirtual.ucc.edu.ar/my/)
+Link proyecto: [Aula Virtual de Moodle] (https://campusvirtual.ucc.edu.ar/my/)
 
 | Num. de teléfono | Mail |
-| 446848665665446 | asfadsadiufhsa@example.com |
+|------------------|------|
+|446848665665446|asfadsadiufhsa@example.com|
 
 ✨
